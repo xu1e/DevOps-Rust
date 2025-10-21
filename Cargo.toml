@@ -5,3 +5,11 @@ members = [
     "crates/files_utils",
     "crates/automated_testing"
 ]
+members = [
+    "crates/core",
+    "crates/cli"
+    "crates/files_utils",
+    "crates/automated_testing"
+
+]
+resolver = "4"
