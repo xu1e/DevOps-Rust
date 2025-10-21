@@ -7,7 +7,7 @@ members = [
 ]
 members = [
     "crates/core",
-    "crates/cli"
+    "crates/cli",
     "crates/files_utils",
     "crates/automated_testing"
 
