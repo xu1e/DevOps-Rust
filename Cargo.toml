@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "crates/core",
+    "crates/cli",
+    "crates/files_utils",
+    "crates/automated_testing"
+]

@@ -1,0 +1,11 @@
+[package]
+name = "automated_testing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+core = { path = "../core" }
+files_utils = { path = "../files_utils" }
+
+[dev-dependencies]
+tempfile = "3"
