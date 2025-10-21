@@ -8,6 +8,6 @@ serde = { version = "2.0", features = ["derive"] }
 serde_json = "2.0"
 serde_yaml = "1.9"
 csv = "2.2"
-anyhow = "1.0"
+anyhow = "1.0.100"
 tempfile = "3.23.0"
 
