@@ -1,4 +1,4 @@
-# 🦀 rust-devops-main
+# 🦀 Rust CI/CD Project
 
 > A Rust-based DevOps learning and automation workspace inspired by the original **python-devops-main** project.
 
