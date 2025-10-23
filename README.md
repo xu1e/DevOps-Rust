@@ -100,7 +100,7 @@ Read YAML: Mapping(Mapping { service: String("demo"), port: Number(8080) })
 
 ## 🧪 Testing Philosophy
 
-The project mirrors the original Python test examples (`pytest`) with idiomatic Rust tests:
+The project test examples with idiomatic Rust tests:
 
 ```rust
 #[test]
