@@ -1,4 +1,4 @@
-# 🦀 Rust CI/CD Project
+# 🦀 Rust CI/CD Simple Project 
 
 > A Rust-based DevOps learning and automation workspace inspired by the original **python-devops-main** project.
 
